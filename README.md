@@ -1,29 +1,21 @@
-# app-testing
+# simple-example-vue2-test-utils-typescript
+
+This is a simple example of Vue2 with @vue/test-utils and Jest with Typescript support.
 
 ## Project setup
+
 ```
-yarn install
+yarn
 ```
 
-### Compiles and hot-reloads for development
+## Start the project
+
 ```
-yarn serve
+yarn test
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Run your unit tests
-```
-yarn test:unit
-```
+## links
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [@vue/test-utils](https://v1.test-utils.vuejs.org/)
+- [jest](https://kulshekhar.github.io/ts-jest/)
